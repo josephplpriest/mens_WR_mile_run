@@ -1,6 +1,6 @@
 # Data Cleaning and Visualization  ---  Men's World Record Mile Run Times
 
-This project was created for Code Louisville Data Analytics w/Python Part 1 students.
+This project was created by Paul Priest for Code Louisville Data Analytics w/Python Part 1 students.
 
 ## Goals:
 
